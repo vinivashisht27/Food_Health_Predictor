@@ -1,0 +1,11 @@
+# Large data files
+*.csv
+*.tsv
+*.pkl
+*.h5
+*.joblib
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
